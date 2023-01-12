@@ -20,3 +20,7 @@ After setting up (look above), navigate to the edsby home page, and press a numb
 
 **1**: Bright Night  
 **0**: Edsby Normal Theme (No Styling)  
+
+# Credits
+
+ScripterRickster: Tester
